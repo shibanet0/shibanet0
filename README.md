@@ -48,7 +48,7 @@
 </table> -->
 
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=shibanet0&theme=dark&show_icons=true">](https://metrics.lecoq.io/insights/shibanet0#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=shibanet0&show_icons=true">](https://metrics.lecoq.io/insights/shibanet0#gh-light-mode-only)
+[<img width="50%" src="https://github-readme-stats.vercel.app/api?username=shibanet0&theme=dark&show_icons=true">](https://metrics.lecoq.io/insights/shibanet0#gh-dark-mode-only)
+[<img width="50%" src="https://github-readme-stats.vercel.app/api?username=shibanet0&show_icons=true">](https://metrics.lecoq.io/insights/shibanet0#gh-light-mode-only)
 
-<img style="display:none" src="https://visitor-badge.laobi.icu/badge?page_id=github.shibanet0" />
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=github.shibanet0)
