@@ -48,7 +48,4 @@
 </table> -->
 
 
-[<img width="50%" src="https://github-readme-stats.vercel.app/api?username=shibanet0&theme=dark&show_icons=true">](https://metrics.lecoq.io/insights/shibanet0#gh-dark-mode-only)
-[<img width="50%" src="https://github-readme-stats.vercel.app/api?username=shibanet0&show_icons=true">](https://metrics.lecoq.io/insights/shibanet0#gh-light-mode-only)
-
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=github.shibanet0)
+![](https://hit.yhype.me/github/profile?user_id=9435582)
